@@ -11,7 +11,7 @@
 - **woz_synthetic.jsonl** — 200 records, UTF-8 JSON Lines
 - **woz_stress.jsonl** — 300 records, UTF-8 JSON Lines
 
-Each line is one dialogue record with (i) ordered turns and (ii) an oracle/reference onset label (`t_oracle_onset`).
+Each line is one dialogue record with (i) ordered turns and (ii) an oracle onset label (`t_oracle_onset`).
 
 ## 2. What This Dataset Contains
 
@@ -21,7 +21,7 @@ Each line is one dialogue record with (i) ordered turns and (ii) an oracle/refer
 
 ## 3. Reproducibility
 
-The corpora are reproducible using our generation scripts with a fixed random seed (seed = 42). Scripts and configuration can be provided by the corresponding author upon request.
+The corpora are reproducible using our generation scripts with a fixed random seed (seed = 42). Scripts and configuration are available from the corresponding author upon request.
 
 ## 4. External Corpora (Not Included)
 
