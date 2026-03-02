@@ -1,8 +1,6 @@
 ﻿# ReID Risk Dialogue Data
 
-🪪 About | 🏷️ Description | 🗃️ Usage | 🔗 Citation
-
-This repository contains the dataset for the paper: [Early Detection of Re-identification Risk in Multi-Turn Dialogues via Entity-Aware Evidence Accumulation](https://doi.org/10.3390/app) (Applied Sciences, 2026)
+🪪 About | 🏷️ Description | 🗃️ Usage
 
 ## About
 
@@ -36,22 +34,5 @@ This dataset can be used for the following purposes:
 1. Evaluating dialogue-level re-identification risk detection models.
 2. Benchmarking entity-aware evidence accumulation methods.
 3. Stress-testing onset detection under adversarial mutation conditions.
-
-## Citation
-
-If you use this dataset for your research, please cite the following paper.
-
-> Title: Early Detection of Re-identification Risk in Multi-Turn Dialogues via Entity-Aware Evidence Accumulation
-> Journal: Applied Sciences (MDPI)
-
-```bibtex
-@article{lee2026reid,
-  title   = {Early Detection of Re-identification Risk in Multi-Turn Dialogues
-             via Entity-Aware Evidence Accumulation},
-  journal = {Applied Sciences},
-  author  = {Lee, Yeongseop and Park, Seungun and Son, Yunsik},
-  year    = {2026}
-}
-```
 
 [PLASS Lab, Dongguk University](https://plass.dongguk.edu/)
